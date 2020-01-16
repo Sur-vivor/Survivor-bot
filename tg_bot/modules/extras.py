@@ -8,21 +8,21 @@ from tg_bot import dispatcher
 from tg_bot.modules.disable import DisableAbleCommandHandler
 
 ABUSE_STRINGS = (
-    "Fuck off",
-    "Stfu go fuck yourself",
-    "Ur mum gey",
-    "Ur dad lesbo",
-    "Bsdk",
-    "Nigga",
-    "Ur granny tranny",
-    "you noob",
-	"Relax your Rear,ders nothing to fear,The Rape train is finally here",
-	"Stfu bc",
-	"Stfu and Gtfo U nub",
-	"GTFO bsdk"
-    "CUnt",
-    " Gay is here",
-    "Ur dad gey bc "
+    "പോടാ പട്ടി",
+    "ഡാ പന്നി ",
+    "പുന്നാര മോനെ,
+    "പോടാ മാക്രി",
+    "പോടാ നാറി",
+    "വാടാ ... പട്ടീ",
+    "പോയി ചാവടാ,
+    "നീ പോടാ കാട്ടുകോഴി",
+    "പോയി ചത്തൂടെ നിനക്ക്",
+    "കോപ്പേ വല്യ ബഹളം വേണ്ട",
+    "വല്യ മലരനാണല്ലോടാ നീ",
+    "മണ്ണുണ്ണി",
+    " നിന്റെ കുഞ്ഞമ്മേടെ നായർ"
+    "നിന്റെ അപ്പൂപ്പനോട്‌ പോയി പറ",
+    "പോ മലരേ"
 )
 
 EYES = [
