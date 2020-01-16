@@ -270,7 +270,7 @@ __help__ = """
  -- @Sur_vivor --
 """
 
-__mod_name__ = "❇️Extrtas❇️"
+__mod_name__ = "Extras"
 
 ROLL_HANDLER = DisableAbleCommandHandler("roll", roll)
 TOSS_HANDLER = DisableAbleCommandHandler("toss", toss)
