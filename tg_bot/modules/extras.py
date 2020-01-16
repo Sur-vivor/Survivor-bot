@@ -266,11 +266,9 @@ __help__ = """
  - /roll : ഒരു ഡൈസ് റോൾ ചെയ്യുക.
  - /rlg : ചെവി, മൂക്ക്, വായ എന്നിവ ചേർത്ത് ഒരു ഇമോ സൃഷ്ടിക്കുക.
  - /zal <any text> : കൊടുക്കുന്ന ടെസ്റ്റിന് ലിറിക് ഫോണ്ടിൽ ഉത്തരം നൽകുന്നു
- 
- -- @SALIM_SHAA --
 """
 
-__mod_name__ = "❇️Extrtas❇️"
+__mod_name__ = "Extras"
 
 ROLL_HANDLER = DisableAbleCommandHandler("roll", roll)
 TOSS_HANDLER = DisableAbleCommandHandler("toss", toss)
