@@ -37,10 +37,9 @@ __help__ = """
  - /stickerid: സ്റ്റിക്കർ ഐഡി ലഭിക്കാനായി റിപ്ലൈ ആയി ഇടുക.
  - /getsticker: ഒരു സ്റ്റിക്കറിന് റിപ്ലൈ ആയി നൽകിയാൽ അതിന്റെ raw PNG ഫയൽ ലഭിക്കും.
  
- -- @salim_shaa --
 """
 
-__mod_name__ = "സ്റ്റിക്കറുകൾ"
+__mod_name__ = "Stickers"
 
 STICKERID_HANDLER = DisableAbleCommandHandler("stickerid", stickerid)
 GETSTICKER_HANDLER = DisableAbleCommandHandler("getsticker", getsticker)
