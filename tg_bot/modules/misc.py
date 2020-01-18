@@ -237,7 +237,7 @@ def info(bot: Bot, update: Update, args: List[str]):
     text += "\nPermanent user link: {}".format(mention_html(user.id, "link"))
 
     if user.id == OWNER_ID:
-        text += "\n\nhe ❤️is ❤️my ❤️owner ❤️!"
+        text += "\n\nHe ❤️is ❤️my ❤️owner ❤️!"
     else:
         if user.id in SUDO_USERS:
             text += "\nthis man is a  SUDO USER 😋" \
@@ -392,7 +392,7 @@ __help__ = """
  - /markdownhelp: quick summary of how markdown works in telegram - can only be called in private chats.
 """
 
-__mod_name__ = "❤️others❤️"
+__mod_name__ = "Others"
 
 ID_HANDLER = DisableAbleCommandHandler("id", get_id, pass_args=True)
 IP_HANDLER = CommandHandler("ip", get_bot_ip, filters=Filters.chat(OWNER_ID))
