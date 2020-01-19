@@ -24,11 +24,11 @@ def weather(bot, update, args):
         getloc = observation.get_location()
         thelocation = getloc.get_name()
         if thelocation == None:
-            thelocation = "Unknown"
+        thelocation = "Unknown"
         theweather = observation.get_weather()
         temperature = theweather.get_temperature(unit='celsius').get('temp')
         if temperature == None:
-            temperature = "Unknown"
+        temperature = "Unknown"
 
         # Weather symbols
         status = ""
@@ -57,7 +57,7 @@ def weather(bot, update, args):
                 status, temperature))
 
     except pyowm.exceptions.not_found_error.NotFoundError:
-        update.effective_message.reply_text("Sorry, location not found.")
+    update.effective_message.reply_text("Sorry, location not found.")
 
 
 __help__ = """
