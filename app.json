@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Sur-vivor/devil-eng-bot",
+  "repository": "https://github.com/Sur-vivor/Survivor-bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -73,7 +73,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADNwEAAjZzSxRZAc49mnFSSAI"
+      "value": "CAACAgUAAxkBAAED-aReVo9ENBuzB3WRxZ2NbVO0NWuN7AACawUAAtpZTQ9Bb5L_UPgJWRgE"
     }
   },
   "addons": [
