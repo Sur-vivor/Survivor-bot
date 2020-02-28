@@ -18,3 +18,13 @@ pynewtonmath
 bs4
 telegraph
 googletrans
+wikipedia
+tldextract
+beautifulsoup4==4.6.3
+hurry.filesize
+geopy
+nltk
+aiohttp>=2.2.5
+Pillow>=4.2.0
+spongemock
+pythonping
