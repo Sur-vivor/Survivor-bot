@@ -12,10 +12,10 @@ demjson
 PyLyrics
 wget
 gTTS
-telegram
+#telegram
 zalgo_text
 pynewtonmath
 bs4
 telegraph
 googletrans
-#telegram
+
