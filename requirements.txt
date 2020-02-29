@@ -18,4 +18,4 @@ pynewtonmath
 bs4
 telegraph
 googletrans
-
+wikipedia
