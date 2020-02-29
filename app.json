@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/anandus0070/tgbot",
+  "repository": "https://github.com/Sur-vivor/Survivor-bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "570400686"
+      "value": "765392045"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "Anandus"
+      "value": "Sarath"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -37,19 +37,19 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001229003650"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "340489014 338618587 323478201"
+      "value": "765392045 1041864001"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "340489014 338618587 323478201"
+      "value": "765392045 1041864001"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "340489014 338618587 323478201"
+      "value": "765392045 1041864001"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
