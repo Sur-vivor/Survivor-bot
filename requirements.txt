@@ -19,4 +19,3 @@ bs4
 telegraph
 googletrans
 wikipedia
-#Cool stuff by Peak
