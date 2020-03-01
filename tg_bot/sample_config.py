@@ -12,7 +12,7 @@ class Config(object):
     # REQUIRED
     API_KEY = ""
     OWNER_ID = "765392045" # If you dont know, run the and do /id in pm
-    OWNER_USERNAME = "Sarath"
+    OWNER_USERNAME = Sarath
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
